@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/currencyGroup">
+        <item android:id="@+id/euro"
+            android:icon="@drawable/euro_currency_symbol"
+            android:title="@string/EUR"/>
+        <item android:id="@+id/dollar"
+            android:icon="@drawable/dollar_currency_symbol"
+            android:title="@string/USD"/>
+        <item android:id="@+id/ruble"
+            android:icon="@drawable/iconfinder_ruble_1608820"
+            android:title="@string/RUB"/>
+    </group>
+</menu>

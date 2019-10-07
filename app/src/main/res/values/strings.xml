@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Storage</string>
+    <string name="cardview_image_contentDescription">Product image</string>
+    <string name="product_title_hint">Name</string>
+    <string name="product_price_hint">Price</string>
+    <string name="product_currency_hint">Currency</string>
+    <string name="delete_button">DELETE PRODUCT</string>
+    <string name="EUR">EUR</string>
+    <string name="USD">USD</string>
+    <string name="RUB">RUB</string>
+    <string name="positive_button">YES</string>
+    <string name="negative_button">NO</string>
+    <string name="dialog_title">Deleting product</string>
+    <string name="dialog_message">Delete product?</string>
+    <string name="dialog_postmessage">Product deleted</string>
+    <string name="gallery_title">Select picture</string>
+    <string name="real_number_error">Enter a real number</string>
+</resources>
